@@ -1,4 +1,4 @@
-# <補交的部分為增加了Dataset中的Rules>
+# <想補交的部分為增加了Dataset中的Rules，Rules在Datamining_Report_Project2.pdf中的紅框裡>
 
 ## Data-mining Project2
 
