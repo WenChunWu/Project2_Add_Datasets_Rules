@@ -1,6 +1,7 @@
-# Data-mining Project2
+# <補交的部分為增加了Dataset中的Rules>
 
-## <補交的部分為增加了Dataset中的Rules>
+## Data-mining Project2
+
 
 Datamining_Report_Project2.pdf為報告與成果展現的檔案。
 
